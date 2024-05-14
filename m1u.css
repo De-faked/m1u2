@@ -1,0 +1,51 @@
+<style>
+.cotainer {
+    display: flex;
+
+}
+
+.box {
+    display: inline-block;
+    /* display: block; */
+}
+
+.box1 {
+    background-color: aqua;
+
+}
+
+.box2 {
+    background-color: rgb(93, 187, 101);
+
+}
+
+.box3 {
+    background-color: rgb(4, 0, 255);
+
+}
+
+.box4 {
+    background-color: rgb(166, 114, 207);
+
+}
+
+.box5 {
+    background-color: rgb(126, 91, 17);
+
+}
+
+.box6 {
+    background-color: rgb(10, 100, 66);
+
+}
+
+.box7 {
+    background-color: rgb(4, 68, 68);
+
+}
+
+.box8 {
+    background-color: rgb(100, 15, 43);
+
+}
+</style>
